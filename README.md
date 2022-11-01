@@ -11,5 +11,6 @@ Dispensador-Dispositivo\Prototipo\FirmwareEsp32\.pio\build\esp32dev\firmware.bin
 ´´´
 ### version.txt file
 This file contains the serial numbers of the devices **you want to update**.
+
 **Important**: The file has the following format
 **[serialnumber][,][SPACE][serialnumber][,][SPACE][serialnumber]** 
