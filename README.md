@@ -14,5 +14,6 @@ This file contains the serial numbers of the devices **you want to update**.
 
 **Important**: The file has the following format
 **[serialnumber][,][SPACE][serialnumber][,][SPACE][serialnumber]** 
+
 For example:
 1001, 1002, 1003, 1004
